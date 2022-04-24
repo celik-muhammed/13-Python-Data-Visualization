@@ -11,7 +11,7 @@
   </thead>  
   <tbody>
     <tr>
-      <td>01- Create RGB Image</td>
+      <td><a href="01- Create RGB Image" target="_blank">01- Create RGB Image</a></td>
       <td><a href="01- Create RGB Image" target="_blank">Repo details</a></td>
       <td><a href="^#" target="_blank">App details</a></td>
       <td><img src="/01-%20Create%20RGB%20Image/RGB_Image.jpg" alt="tictactoe" height=50></td>
