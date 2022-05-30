@@ -1,5 +1,7 @@
 # Index of Data Analysis with Python
 
+-[x] [07-Seaborn-Exercise.ipynb](07-Seaborn-Exercise.ipynb)
+
 <table>
   <thead>
     <tr>
