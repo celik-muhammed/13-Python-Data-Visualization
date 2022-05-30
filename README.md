@@ -1,4 +1,4 @@
-# Index of Python for Data Science
+# Index of Data Analysis with Python
 
 <table>
   <thead>
