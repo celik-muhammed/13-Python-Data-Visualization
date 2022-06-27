@@ -1,8 +1,15 @@
 ### [Go to Home Page](https://github.com/celik-muhammed)
 
-01. [x] [07-Seaborn-Exercise.ipynb](07-Seaborn-Exercise.ipynb)
+### Assignments
 
-<table>
+01. [x] [01. DVwPy-Assignment-1-Pandas-Matplotlib-Student.ipynb](./00-Assignments/DVwPy-Assignment-1-Pandas-Matplotlib-Student.ipynb)
+02. [x] [02. DVwPy-Assignment-2-Seaborn-Student.ipynb](./00-Assignments/DVwPy-Assignment-2-Seaborn-Student.ipynb)
+
+### Exercises
+
+01. [x] [01. 07-Seaborn-Exercise.ipynb](./01-Exercises/07-Seaborn-Exercise.ipynb)
+
+<!-- <table>
   <thead>
     <tr>
       <th>Project Name</th>
@@ -23,4 +30,4 @@
       <td><img src="/99-Create-RGB-Image/RGB_Image.jpg" alt="RGB_Image" height=39></td>
     </tr>
   </tbody>
-</table>
+</table> -->
